@@ -363,6 +363,8 @@ footer{
     margin-right: 10vw;
     padding-top: 10px;
     padding-bottom: 10px;
+    width: auto;
+    height: 3.5vh;
     
 }
 span.phno{
