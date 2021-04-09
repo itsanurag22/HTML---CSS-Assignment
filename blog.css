@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 body{
     margin: 0;
     padding: 0;
@@ -70,12 +72,12 @@ body{
     border: none;
     margin: 0;
     padding: 0.5em ;
-    height: 3em;
+    height: 2em;
     background-color:transparent;
     fill: rgb(38, 49, 70);
-    font-family: "TypoPRO Bebas Neue";
+    font-family: 'Bebas Neue', cursive;
     font-stretch: 100%;
-    font-size: 15px;
+    font-size: 1.5em;
 }
 .blog-main{
     margin-left: 10vw;
