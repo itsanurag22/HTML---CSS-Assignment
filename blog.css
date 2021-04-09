@@ -90,6 +90,7 @@ body{
     height: 200px;
     background-position: center;
     background-size: cover;
+    border-bottom: 1px solid rgba(34,36,38,.1);
 }
 .img1{
     border-radius: .28571429rem .28571429rem 0 0!important;
@@ -98,9 +99,9 @@ body{
 }
 .tile-content{
     border: none;
-    border-top: 1px solid rgba(34,36,38,.1);
+    
     background: 0 0;
-    margin: 0;
+    margin: auto;
     padding: 1em 1em;
     box-shadow: none;
     font-size: 1.2em;
@@ -110,6 +111,8 @@ body{
 .tile{
     margin: 2vh;
     border: none;
+    display: flex;
+    flex-direction: column;
     border-radius: .28571429rem;
     box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;;
 }
