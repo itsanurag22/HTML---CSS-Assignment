@@ -55,6 +55,9 @@ body{
 .navlink{
     text-decoration: none;
 }
+.blog:hover{
+    cursor: pointer;
+}
 .nav-col1{
     display: inline-block;
     width: 50%;
@@ -87,7 +90,9 @@ body{
     font-stretch: 100%;
     font-size: 1.5em;
 }
-
+.button:hover{
+    cursor: pointer;
+}
 .jidsms{
     display: flex;
     align-items: center;
@@ -304,6 +309,7 @@ body{
 }
 .akjdsk:hover{
     background-color: #f8d16c;
+    cursor: pointer;
 }
 .dkhskh{
     display: flex;
@@ -364,4 +370,7 @@ span.phno{
 }
 .icon-tilediv{
     margin-bottom: 1.3em;
+}
+.fa:hover{
+    color: #f8d16c;
 }

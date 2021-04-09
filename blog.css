@@ -61,6 +61,9 @@ body{
     height: 3em;
     padding: 1vw;
 }
+.blog:hover{
+    cursor: pointer;
+}
 .imglogo{
     max-height: 100%;
     
@@ -78,6 +81,9 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-stretch: 100%;
     font-size: 1.5em;
+}
+.button:hover{
+    cursor: pointer;
 }
 .blog-main{
     margin-left: 10vw;
@@ -118,6 +124,7 @@ body{
 }
 .tile:hover{
     transform: translate(0%,-1.5%);
+    cursor: pointer;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .tile{
