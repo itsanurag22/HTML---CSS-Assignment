@@ -334,10 +334,10 @@ body{
     vertical-align: top;
 }
 h5{
-    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
-    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5em;
+    font-weight: 500;
     display: inline-block;
-    font-size: 16px;
     margin-bottom: 5px;
 }
 
