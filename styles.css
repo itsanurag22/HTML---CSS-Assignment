@@ -371,6 +371,12 @@ span.phno{
 .icon-tilediv{
     margin-bottom: 1.3em;
 }
+.fa{
+    font-size: 1.5em;
+}
 .fa:hover{
+    color: #f8d16c; 
+}
+.fab:hover{
     color: #f8d16c;
 }
