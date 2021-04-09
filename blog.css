@@ -110,6 +110,7 @@ body{
     
     background: 0 0;
     margin: auto;
+    margin-left: 0;
     padding: 1em 1em;
     box-shadow: none;
     font-size: 1.2em;
