@@ -9,14 +9,17 @@ body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    min-width: 320px;
     background: #fff;
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
     font-size: 14px;
     line-height: 1.4285em;
     color: rgba(0,0,0,.87);
-    min-height: 100%;
+    display: flex;
+    flex-direction: column;
 
+}
+.container{
+    margin-bottom: auto;
 }
 .first-div{
     position: sticky !important;
@@ -191,7 +194,7 @@ body{
     border-radius: .28571429rem .28571429rem 0 0!important;
     background-image: url("Blog Images/1_2soSYXqsaPzpTZ97FGOsEQ.png");
 }
-footer{
+.footer{
     background-color: #263146;
     color: white;
 }
