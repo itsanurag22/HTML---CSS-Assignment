@@ -16,7 +16,6 @@ body{
     line-height: 1.4285em;
     color: rgba(0,0,0,.87);
     min-height: 100%;
-    position: relative;
 
 }
 .first-div{
@@ -195,9 +194,6 @@ body{
 footer{
     background-color: #263146;
     color: white;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 .foot{
     margin-left: 10vw;
