@@ -15,8 +15,9 @@ body{
 
 }
 .first-div{
-    position: sticky !important;
+    position: fixed !important;
     top: 0 !important;
+    width: 100vw;
     background-color: white !important;
     z-index: 1000;
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
